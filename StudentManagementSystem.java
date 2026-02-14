@@ -33,7 +33,6 @@ class StudentManagementSystem {
             System.out.println("2. View students");
             System.out.println("3. Update student");
             System.out.println("4. Delete student");
-            git
             System.out.println("5. Exit");
             System.out.print("Enter your choice: ");
             int choice = sc.nextInt();
